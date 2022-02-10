@@ -403,18 +403,15 @@ h1 {
         padding: .4rem 1rem;
         font-size: 1rem;
     }
-    .home__tema {
-        width: 100%;
-    }
     .home {
         height: 90vh;
     }
     .home-contenedor {
         padding: 0 4rem;
     }
-    /* .home-contenedor {
-        padding: 12rem 5rem;
-    } */
+    .home__tema {
+        width: 100%;
+    }
     .home__info h5 {
         margin-bottom: 2.5rem;
         font-size: .8rem;
@@ -525,7 +522,7 @@ h1 {
         margin-bottom: 0;
         max-width: 34rem;
     }
-  .menu {
+    .menu {
         padding: 1.5rem 4rem 1.5rem 4rem;
     }
     .menu__item {
@@ -534,15 +531,9 @@ h1 {
     .menu__item a {
         font-size: 1rem;
     }
-
-  
     .home-contenedor {
         padding: 0 8rem;
     }
-    /* .home-contenedor {
-        width: 100vw;
-        padding: 16rem 8rem;
-    } */
     .home__info h5 {
         margin-top: 0;
         margin-bottom: 5rem;
@@ -556,7 +547,6 @@ h1 {
     .home__info p {
         font-size: 1.1rem;
     }
-
     #seccion-1 {
         padding: 10rem 4rem;
     }
